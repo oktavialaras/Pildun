@@ -340,7 +340,6 @@ mrka:mereka
 msa:masa
 msuk:masuk
 mun:jika
-muncul2:muncul-muncul
 mundak:naik
 mw:mau
 mz:mas
@@ -392,7 +391,6 @@ nyiapne:menyiapkan
 nyieun:membuat
 ogah:tidak mau
 ojo:jangan
-ok jajal ng rusia tep rame
 okay:ok
 olahrag:olahraga
 ono:ada
