@@ -5,9 +5,8 @@ adl:adalah
 agi:lagi
 aherat:akhirat
 aing:aku
-aj:aja
-ajaa:aja
-ajah:aja
+aj:saja
+ajaa:saja
 ajah:saja
 ajg:anjing
 akeh:lagi
@@ -51,12 +50,10 @@ batalkn:batalkan
 bbrpa:beberapa
 bdw:by the way
 be:belgia
-begono-begini:begini
 belg:belgia
 belgiaaaaaa:belgia
 berbarengan:barengan
 berkelit sieun:takut kalah
-besok:besok-besok
 bet:banget
 bgt:banget
 biasane:biasanya
@@ -85,7 +82,7 @@ byk:banyak
 bykny:banyaknya
 cewenyaaa:cewenya
 ciamik:bagus
-cm:cuman
+cm:cuma
 cma:cuma
 congrattzz:selamat
 cth:contoh
@@ -114,7 +111,6 @@ dri:dari
 drpda:daripada
 dtg:datang
 duina:dunia
-e:nya
 eeehh:eh
 eeh:eh
 eittt:eit
@@ -158,21 +154,17 @@ glt:galat
 gmn:gimana
 Gogogo:go
 Gokil:gila
-gol2:gol-gol
 golek:gol
 golin:gol
-goolll:gool
+goolll:gol
 gowo:bawa
-gpp:tidak apa-apa
 gratiss:gratis
-grgr:gara-gara
+grgr:gara gara
 gua:saya
-gue:aku
+gue:saya
 gugling:searching
-guwa:aku
-gw:aku
+guwa:saya
 gw:saya
-hal2:hal-hal
 Halooo:halo
 halow:halo
 hamun:namun
@@ -190,7 +182,7 @@ imejin:membayangkan
 indo:indonesia
 indonesi:indonesia
 inga:ingat
-inglen nya:england nya
+inglen:inggris
 ingris:inggris
 iso:bisa
 jajal:coba
