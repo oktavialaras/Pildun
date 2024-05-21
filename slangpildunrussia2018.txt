@@ -48,7 +48,6 @@ saiki:sekarang
 ra:tidak
 Kowe:kamu
 ng:tidak
-ok jajal ng rusia tep rame
 ngga:tidak
 pdhal:padahal
 x:kali
