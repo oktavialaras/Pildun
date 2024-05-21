@@ -7,7 +7,6 @@ agi:lagi
 gua:saya
 sekrg:sekarang
 uruguai:uruguay
-kira2:kira-kira
 lo:kamu
 fair:adil
 dgn:dengan
@@ -27,16 +26,13 @@ aj:aja
 kerejaanya:kerjaannya
 gk:tidak
 pkl:pukul
-cepat2lah:cepat-cepat lah
 nntn:nonton
 ni:ini
-orang2:orang-orang
 lg:lagi
 ye:ya
 buuk:buk
 mainnye:mainnya
 tipi:tv
-MENTANG2:mentang-mentang
 MANTAAAP:mantap
 AKEH:lagi
 MAKANE:makanya
@@ -64,8 +60,6 @@ mgkn:mungkin
 cth:contoh
 blm:belum
 kl:kalau
-liga2:liga-liga
-2k18:2018
 nobar:nonton bareng
 kmrin:kemarin
 jgn:jangan
@@ -80,7 +74,6 @@ keneh:tetap
 berkelit sieun:takut kalah
 kalo:kalau
 banyk:banyak
-cpt2:cepat-cepat
 bace:baca
 kenak:kena
 tulung:tolong
@@ -90,13 +83,8 @@ mngkin:mungkin
 ga:tidak
 gak:tidak
 klo:kalau
-cewe2:cewe-cewe
 ndak:tidak
-apa2:apa-apa
-teman2:teman-teman
 gw:aku
-gol2:gol-gol
-negara2:negara-negara
 ciamik:bagus
 nyank:nanya
 auu:tidak tau
@@ -124,7 +112,6 @@ jga:juga
 pili:pilih
 tra:terus
 asyikkk:asik
-masing2:masing-masing
 riuh:ramai
 wihhh:wih
 ntn:nonton
@@ -153,13 +140,11 @@ sklian:sekalian
 besok:besok-besok
 ane:aku
 uda:sudah
-muncul2:muncul-muncul
 brarti:berarti
 nontom:nonton
 sma:sama
 mz:mas
 klah:kalah
-ngamuk2:ngamuk-ngamuk
 lgi:lagi
 nnti:nanti
 tsb:tersebut
@@ -180,16 +165,11 @@ aya na:adanya
 cus:pergi
 sdh:sudah
 indonesi:indonesia
-emyu:MU
-u/:untuk
+emyu:mu
 eeehh:eh
-begono-begini:begini
 ajaa:aja
 gratiss:gratis
 ntn:nonton
-pemain2:pemain-pemain
-tim2:tim-tim
-rata2:rata-rata
 nnton:nonton
 dri:dari
 sprti:seperti
@@ -197,13 +177,11 @@ kam:kamu
 engga:tidak
 gue:aku
 doyan:suka
-jalan2:jalan-jalan
 smg:semoga
 sy:saya
 kog:kok
 mmg:memang
 bingits:banget
-hal2:hal-hal
 br:baru
 trjadi:terjadi
 sptny:sepertinya
@@ -211,11 +189,9 @@ ama:sama
 nak:anak
 indo:indonesia
 sono:sana
-RameÂ²:rame-rame
 n:dan
 yuhuuuu:yuhu
 w:aku
-tanda2:tanda-tanda
 angkt:angkat
 nggak:tidak
 pdhal:padahal
@@ -230,8 +206,6 @@ gaada:tidak ada
 maennya:mainnya
 gitugituan:begitu
 pulkam:pulang kampung
-sepi2:sepi-sepi
-terseok2:terseok-seok
 lnjut:lanjut
 udut:merokok
 tangi turu:bangun tidur
@@ -246,18 +220,14 @@ drpda:daripada
 bet:banget
 grgr:gara-gara
 spt:seperti
-lbh2:lebih-lebih
 jls:jelas
 scra:secara
 kesluruhan:keseluruhan
 baba:babak
 topskor:top skor
-besar2an:besar-besaran
 tapinjujur:tapi jujur
-was2:was-was
 berbarengan:barengan
 dah:sudah
-kejutan2:kejutan-kejutan
 gabegitu:tidak begitu
 sotoy:sok tau
 yarabb:ya rab
@@ -273,7 +243,6 @@ bdw:by the way
 btw:by the way
 mantabs:mantap
 PD:piala dunia
-jago2:jago-jago
 tydac:tidak
 hamun:namun
 tida:tidak
@@ -283,7 +252,6 @@ menentanh:menentang
 gag:tidak
 guwa:aku
 bonyok:memar
-ala2:ala-ala
 gugling:searching
 kaga:tidak
 daahh:sudah
@@ -305,7 +273,6 @@ mcm:macam
 utk:untuk
 sy:saya
 slah:salah
-nakut2in:nakut-nakutin
 gpp:tidak apa-apa
 kunaik:ku naik
 mav:maaf
@@ -319,7 +286,6 @@ amat:banget
 eug:aku
 aslih:asli
 enggak:tidak
-satu2nya:satu-satunya
 ato:atau
 mw:mau
 untk:untuk
@@ -336,8 +302,6 @@ ajg:anjing
 jdi:jadi
 Hayooo:hayo
 mlah:malah
-GaraÂ²:karena
-gara2:karena
 OLAHRAG:olahraga
 bnyak:banyak
 Gendengggg:gendeng
@@ -355,11 +319,9 @@ ku:aku
 Halooo:halo
 mbh:mbah
 asyiknya:asiknya
-tipis2:tipis-tipis
 sunggu:sungguh
 ttg:tentang
 turu:tidur
-dua2nya:dua-duanya
 Hoalaah:oh
 takniran:takbiran
 sreg:nyaman
@@ -370,7 +332,6 @@ dinginnn:dingin
 ye:ya
 paan:apaan
 kek:kayak
-greget2nya:greget-gregetnya
 mewek:nangis
 nonbar:nonton bareng
 nerpes:gugup
@@ -385,7 +346,8 @@ janganmi:jangan
 tunggumi:tunggu
 nak:mau
 kahkah:apakah
-macam tu:seperti itu
+macam:seperti
+tu:itu
 ngirit:mengirit
 Hhmm:hm
 legawa:lega
@@ -393,7 +355,6 @@ asa:ada
 trus:terus
 halow:halo
 kabuuurrr:kabur
-tu:itu
 Sisishkan:sisihkan
 brantem:berantem
 keleuus:kali
@@ -401,7 +362,6 @@ gausah:tidak usah
 belg:belgia
 be:belgia
 bs:bisa
-ancang2:ancang-ancang
 mengulani:mengulangi
 jetpri:jet pribadi
 ijasah:ijazah
@@ -417,7 +377,6 @@ d:di
 filing:feeling
 pulaklah:lagi
 skr:sekarang
-KomenÂ²:komen-komen
 sonoo:sana
 Konbawa:konbanwa
 yhamasa:ya masa
@@ -684,3 +643,8 @@ congrattzz:selamat
 abng:abang
 pinalti:penalti
 yaa:ya
+kowe:kamu
+tep:tetap
+ooo:oh
+twt:twit
+dr:dari
