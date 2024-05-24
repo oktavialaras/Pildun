@@ -662,3 +662,13 @@ perancis:prancis
 pildun:piala dunia
 rame:ramai
 kayak:seperti
+eropah:eropa
+belgium:belgia
+pdhl:padahal
+dripda:daripada
+emg:emang
+stadion:stadium
+taun:tahun
+futebol:sepakbola
+jersi:jersey
+russia:rusia
