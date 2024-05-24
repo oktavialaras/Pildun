@@ -649,6 +649,15 @@ ooo:oh
 twt:twit
 dr:dari
 cmn:cuman
+eropah:eropa
+belgium:belgia
+pdhl:padahal
+dripda:daripada
+emg:emang
+stadion:stadium
+taun:tahun
+futebol:sepakbola
+jersi:jersey
 perancis:prancis
 pildun:piala dunia
 rame:ramai
