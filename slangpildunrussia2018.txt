@@ -651,3 +651,5 @@ dr:dari
 cmn:cuman
 perancis:prancis
 pildun:piala dunia
+rame:ramai
+kayak:seperti
