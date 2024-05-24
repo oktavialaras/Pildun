@@ -1440,6 +1440,7 @@ kro
 kseruannya
 ku
 kubace
+kuda
 kui
 kuminisme
 kumpul
@@ -2153,6 +2154,7 @@ pulo
 pun
 pung
 punya
+pusing
 put
 puts
 putus
