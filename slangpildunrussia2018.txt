@@ -648,3 +648,6 @@ tep:tetap
 ooo:oh
 twt:twit
 dr:dari
+cmn:cuman
+perancis:prancis
+pildun:piala dunia
