@@ -3,6 +3,9 @@ degan:dengan
 aplgi:apalagi
 prtgal:portugal
 lngsng:langsung
+french:prancis
+france:prancis
+croatia:kroasia
 yg:yang
 liat:lihat
 horeeeee:hore
