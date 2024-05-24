@@ -672,3 +672,7 @@ taun:tahun
 futebol:sepakbola
 jersi:jersey
 russia:rusia
+russia:rusia
+rusiaarab:rusia arab
+croatia:kroasia
+france:prancis
