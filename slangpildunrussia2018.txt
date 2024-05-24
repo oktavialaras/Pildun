@@ -4,6 +4,9 @@ aplgi:apalagi
 prtgal:portugal
 lngsng:langsung
 french:prancis
+peramcis:prancis
+perancis:prancis
+francis:prancis
 france:prancis
 croatia:kroasia
 yg:yang
